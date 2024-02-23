@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raf-fonseca&show_icons=true&locale=en&layout=compact" alt="raf-fonseca" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raf-fonseca&" alt="raf-fonseca" /></p>
+
