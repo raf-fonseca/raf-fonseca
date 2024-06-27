@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Hive Networks (Web3 x AI)
 
-- 🌱 I’m currently: **Exploring applications and developing in VisionOS**
+- 🌱 I’m currently: **Developing a full-stack platform (stay tuned!)**
 
 - 📫 How to reach me **rafael.silvanofonseca@gmail.com**
 
