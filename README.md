@@ -5,7 +5,7 @@
 
 - 🌱 I've recently **: Developed a full-stack platform**
 
-- 👨‍💻 All of my projects are available at [rafaelsf.com](rafaelsf.com)
+- 👨‍💻 All of my projects are available at [rafaelsf.com](https://www.rafaelsf.com/)
 
 - 📫 How to reach me **: rsilvano@uwaterloo.ca**
 
