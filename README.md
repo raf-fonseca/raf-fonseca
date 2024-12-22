@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Fonseca</h1>
 <h3 align="center">Welcome to my Github profile! I am passionate about learning and currently studying Computer Engineering at the University of Waterloo. I aspire to help others and make a difference with my work.</h3>
 
-- 🔭 I’m currently **: On a study term**
+- 🔭 I’m currently **: On a work term working as a Software Developer @ Cineplex**
 
 - 🌱 I've recently **: Developed a full-stack platform**
 
