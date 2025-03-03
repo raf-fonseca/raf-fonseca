@@ -3,8 +3,9 @@
 
 <div align="center">
 
+<a href="https://rafaelsf.com/" target="blank"><img align="center" src="./personalLogo.png" alt="rafael-fonseca/" height="35" width="40"  /></a>
 <a href="https://x.com/rafaelf0nseca" target="blank"><img align="center" src="./x.png" alt="rafael-fonseca/" height="35" width="55"  /></a>
-<a href="https://www.linkedin.com/in/raf-fonseca/" target="blank"><img  style="margin-right: 10px; margin-bottom: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-fonseca/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raf-fonseca/" target="blank"><img  style="" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-fonseca/" height="30" width="40" /></a>
 <a href="mailto:rsilvano@uwaterloo.ca" target="blank"><img style="" align="center" src="./mail.png" alt="rafael-fonseca/" height="45" width="45" /></a>
 
 </div>
@@ -12,7 +13,7 @@
 <div align="center">
   
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/raf-fonseca/private-stats)
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/raf-fonseca/quirk)
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/raf-fonseca/highlights)
+<!-- ![Github Quirk](https://greptile-stats.vercel.app/api/widget/raf-fonseca/quirk) -->
+<!-- ![Github Highlights](https://greptile-stats.vercel.app/api/widget/raf-fonseca/highlights) -->
 
 </div>
