@@ -10,10 +10,4 @@
 
 </div>
 
-<div align="center">
-  
-![Github Stats](https://greptile-stats.vercel.app/api/widget/raf-fonseca/private-stats)
-<!-- ![Github Quirk](https://greptile-stats.vercel.app/api/widget/raf-fonseca/quirk) -->
-<!-- ![Github Highlights](https://greptile-stats.vercel.app/api/widget/raf-fonseca/highlights) -->
 
-</div>
